@@ -1,0 +1,6 @@
+c:\users\j.iram\documents\visual studio 2013\Projects\HACKCDMX\HACKCDMX\bin\HACKCDMX.dll.config
+c:\users\j.iram\documents\visual studio 2013\Projects\HACKCDMX\HACKCDMX\bin\HACKCDMX.dll
+c:\users\j.iram\documents\visual studio 2013\Projects\HACKCDMX\HACKCDMX\bin\HACKCDMX.pdb
+c:\users\j.iram\documents\visual studio 2013\Projects\HACKCDMX\HACKCDMX\obj\Debug\HACKCDMX.csprojResolveAssemblyReference.cache
+c:\users\j.iram\documents\visual studio 2013\Projects\HACKCDMX\HACKCDMX\obj\Debug\HACKCDMX.dll
+c:\users\j.iram\documents\visual studio 2013\Projects\HACKCDMX\HACKCDMX\obj\Debug\HACKCDMX.pdb
